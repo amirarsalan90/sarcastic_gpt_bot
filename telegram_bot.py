@@ -37,7 +37,7 @@ dp = Dispatcher(bot)
 
 @dp.message_handler(commands=["start", "help"])
 async def welcome(message: types.Message):
-    await message.reply("Hello! type something and you will have a conversation with a sarcastic, mean, not so firnedly gpt lol")
+    await message.reply("Hello! type something and you will have a conversation with a sarcastic, mean, not so friendly gpt-3.5 lol")
 
 
 @dp.message_handler()
