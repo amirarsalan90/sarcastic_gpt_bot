@@ -31,4 +31,4 @@ pip install -r requirements.txt
 python telegram_bot.py
 ```
 
-You can play with langchain template string inside `telegram_bot.py` to change the behavior of the bot. I have set it to be sarcastic, and not so friendly :D
+You can play with langchain template string inside `telegram_bot.py` to change the behavior of the bot. I have set it to be sarcastic, mean, and not so friendly :D
