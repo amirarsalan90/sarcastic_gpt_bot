@@ -1,6 +1,6 @@
 # Simple Telegram Bot
 
-This is a very simple Telegram bot that uses the OpenAI API to respond to messages. you can change the 
+This is a very simple Telegram bot that uses the OpenAI API to respond to messages. You can play with langchain template string inside `telegram_bot.py` to change the behavior of the bot. I have set it to be sarcastic, mean, and not so friendly!
 
 ## Getting Started
 
@@ -30,5 +30,3 @@ pip install -r requirements.txt
 ```
 python telegram_bot.py
 ```
-
-You can play with langchain template string inside `telegram_bot.py` to change the behavior of the bot. I have set it to be sarcastic, mean, and not so friendly :D
